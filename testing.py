@@ -1,5 +1,6 @@
 print("yes")
 print("yes yes")
+print("yes yes yes")
 print("no")
 print("no no")
 print("no no no")
